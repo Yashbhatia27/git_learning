@@ -31,6 +31,7 @@ int main()
         {
             ans+=*max_element(pr.begin(),pr.end());
         }
+        cout<<2*ans<<endl;
         cout<<ans<<endl;
     }
     return 0;
